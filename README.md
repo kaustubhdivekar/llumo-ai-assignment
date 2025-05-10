@@ -1,27 +1,7 @@
-## Project Structure
-
-live-poll-battle/
-├── client/       
-│   ├── public/
-│   └── src/
-│       ├── components/ 
-│       ├── App.js      
-│       ├── index.js    
-│       └── ...
-├── server/        
-│   ├── server.js   
-│   └── package.json
-└── README.md
-
-
 ## Setup Instructions
 
-**Prerequisites:**
-* Node.js (v14 or later recommended) and npm
-* Git
-
 **1. Clone the Repository:**
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone [https://github.com/kaustubhdivekar/llumo-ai-assignment](https://github.com/kaustubhdivekar/llumo-ai-assignment)
    cd live-poll-battle
 
 **2.. Setup Backend:**
